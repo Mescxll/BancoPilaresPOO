@@ -1,8 +1,2 @@
-/**
- * 
- */
-/**
- * 
- */
-module ComponenteIphone {
+module BancoDio {
 }
